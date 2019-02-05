@@ -2,7 +2,7 @@
 title: "Benchmarking Substellar Evolutionary Models Using New Age Estimates for HD 4747 B and HD 19467 B"
 collection: publications
 permalink: /publication/benchmarking-substellar-models-2019
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'write excerpt'
 date: 2019-01-14
 venue: 'The Astrophysical Journal'
 paperurl: 'http://cwood12.github.io/files/browndwarfs.pdf'
