@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Benchmarking Substellar Evolutionary Models Using New Age Estimates for HD 4747 B and HD 19467 B"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/benchmarking-substellar-models-2019
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2019-01-14
+venue: 'Accepted to The Astrophysical Journal'
+paperurl: 'http://cwood12.github.io/files/browndwarfs.pdf'
+citation: 'Wood, C. M., et al. 2019, ArXiv e-prints, arXiv:1901.03687'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Write summary of paper here.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Download the paper [here.](http://arxiv.org/abs/1901.03687)
