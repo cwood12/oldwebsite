@@ -6,7 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-View a PDF version here: [Full CV](http://cwood12.github.io/files/fullCV.pdf) or [Shortened CV](http://cwood12.github.io/files/gradCV.pdf)
+
+View a PDF version here: [Full](http://cwood12.github.io/files/fullCV.pdf) or [Shortened](http://cwood12.github.io/files/shortCV.pdf) (updated 2019-02-05)
 
 {% include base_path %}
 
