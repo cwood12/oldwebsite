@@ -1,11 +1,12 @@
 ---
 layout: archive
-title: "CV"
+title: "My CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
+View a PDF version here: [Full CV](http://cwood12.github.io/files/fullCV.pdf) or [Shortened CV](http://cwood12.github.io/files/gradCV.pdf)
 
 {% include base_path %}
 
@@ -33,13 +34,13 @@ Other Research Experience
   * where
   * responsibilities
   * Advisor:
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Skills
 ======
 * Skill 1
@@ -48,7 +49,7 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-  
+
 Activities & Outreach
 ======
 * list of outreach things
