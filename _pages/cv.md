@@ -15,17 +15,30 @@ Education
 * M.S. in Physics, University of Notre Dame, 2019 (expected)
 * Ph.D in Physics, University of Notre Dame, 2022 (expected)
 
-Work experience
+Publications
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Talks & Presentations
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
+Other Research Experience
+======
+* when: position
+  * where
+  * responsibilities
+  * Advisor:
+  
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 Skills
 ======
@@ -35,25 +48,11 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+  
+Activities & Outreach
+======
+* list of outreach things
 
-Publications
+Professional Organizations
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* list of professional organizations
