@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Charlotte M. Wood"
-  avatar           : "fullsizeoutput_1f55.jpeg"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "bio_photo.jpg"
+  bio              : "Graduate Student at the University of Notre Dame"
   location         : "Notre Dame, IN, USA"
   employer         : "University of Notre Dame"
-  googlescholar    : 
+  googlescholar    :
   email            : "cwood12@nd.edu"
   researchgate     :  "https://www.researchgate.net/profile/Charlotte_Wood16"
   uri              :
