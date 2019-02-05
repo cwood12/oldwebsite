@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  name             : "Charlotte M. Wood"
+  avatar           : "fullsizeoutput_1f55.jpeg"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  location         : "Notre Dame, IN, USA"
+  employer         : "University of Notre Dame"
+  googlescholar    : 
+  email            : "cwood12@nd.edu"
+  researchgate     :  "https://www.researchgate.net/profile/Charlotte_Wood16"
   uri              :
   bitbucket        :
   codepen          :
@@ -95,19 +95,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "cwood12"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/astrocmwood/"
+  orcid            : "https://orcid.org/0000-0003-4773-4602"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "astrocmwood"
   vine             :
   weibo            :
   xing             :
@@ -305,4 +305,4 @@ tag_archive:
 compress_html:
   clippings: all
   ignore:
-    envs: development
+envs: development
