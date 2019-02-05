@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/benchmarking-substellar-models-2019
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2019-01-14
-venue: 'Accepted to The Astrophysical Journal'
+venue: 'The Astrophysical Journal'
 paperurl: 'http://cwood12.github.io/files/browndwarfs.pdf'
 citation: 'Wood, C. M., et al. 2019, ArXiv e-prints, arXiv:1901.03687'
 ---
