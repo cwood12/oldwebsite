@@ -1,5 +1,5 @@
 ---
-title: "Peer Teacher for The Solar System"
+title: "Peer Teacher"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/peerteaching_spring2015
