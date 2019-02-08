@@ -5,7 +5,7 @@ permalink: /publication/ARSco-spindown-2018
 excerpt: 'write excerpt'
 date: 2018-09-11
 venue: 'The Astronomical Journal'
-paperurl: 'http://cwood12.github.io/files/arsco.pdf'
+paperurl: 'https://doi.org/10.3847/1538-3881/aad5dd'
 citation: 'Stiller, R. A., et al. 2018, AJ, 156, 150'
 ---
 {% raw %}
