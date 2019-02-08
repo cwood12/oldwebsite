@@ -1,7 +1,7 @@
 ---
 title: "Peer Teacher for The Solar System"
 collection: teaching
-type: "Undergraduate lecture course"
+type: "Undergraduate course"
 permalink: /teaching/peerteaching_spring2015
 venue: "Hofstra University, Department of Physics & Astronomy"
 date: 2015-05-06

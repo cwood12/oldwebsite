@@ -1,7 +1,7 @@
 ---
 title: "Graduate Teaching Assistant"
 collection: teaching
-type: "Undergraduate lecture & lab courses"
+type: "Undergraduate courses"
 permalink: /teaching/ta_grad
 venue: "University of Notre Dame, Department of Physics"
 date: 2019-05-01
