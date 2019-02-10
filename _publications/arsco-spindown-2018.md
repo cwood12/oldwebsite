@@ -2,7 +2,7 @@
 title: "High-Time-Resolution Photometry of AR Scorpii: Confirmation of the White Dwarf’s Spin-Down"
 collection: publications
 permalink: /publication/ARSco-spindown-2018
-excerpt: 'write excerpt'
+# excerpt: 'write excerpt'
 date: 2018-09-11
 venue: 'The Astronomical Journal'
 paperurl: 'https://charlottewood.me/files/Stiller_2018_AJ_156_150_arsco.pdf'
