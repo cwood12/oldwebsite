@@ -2,7 +2,7 @@
 title: "High-Time-Resolution Photometry of AR Scorpii: Confirmation of the White Dwarf’s Spin-Down"
 collection: publications
 permalink: /publication/ARSco-spindown-2018
-# excerpt: 'write excerpt'
+excerpt: 'The unique binary AR Scorpii consists of an asynchronously rotating, magnetized white dwarf (WD) that interacts with its red-dwarf companion to produce a large-amplitude, highly coherent pulsation every 1.97 minutes. Over the course of two years, we obtained 39 hours of time-resolved, optical photometry of AR Sco at a typical cadence of 5 s to study this pulsation and confirm the disputed spin-down of the WD.'
 date: 2018-09-11
 venue: 'The Astronomical Journal'
 paperurl: 'https://charlottewood.me/files/Stiller_2018_AJ_156_150_arsco.pdf'
