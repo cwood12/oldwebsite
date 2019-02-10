@@ -13,7 +13,7 @@ View a PDF version here: [Full](http://cwood12.github.io/files/fullCV.pdf) or [S
 
 Education
 ======
-* Ph.D in Physics, University of Notre Dame, 2022 (expected)
+* Ph.D. in Physics, University of Notre Dame, 2022 (expected)
 * M.S. in Physics, University of Notre Dame, 2019 (expected)
 * B.S. in Physics, Hofstra University, 2016
 
