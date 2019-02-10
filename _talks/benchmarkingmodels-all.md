@@ -19,9 +19,7 @@ View PDF of presentation [here](https://charlottewood.me/files/talk_cosejam2018.
 Previous presentations of this work:
 ======
 * October 5, 2018: Poster ([PDF](https://charlottewood.me/files/poster_awis2018.pdf))
-  * AWIS Women in Science Regional Conference
-  * University of Notre Dame, South Bend, IN, USA
+  * AWIS Women in Science Regional Conference, South Bend, IN, USA
 
 * January 12, 2018: Poster ([PDF](https://charlottewood.me/files/poster_aas2018.pdf))
-  * 231st Meeting of the American Astronomical Society
-  * Washington, D.C., USA
+  * 231st Meeting of the American Astronomical Society, Washington D.C., USA

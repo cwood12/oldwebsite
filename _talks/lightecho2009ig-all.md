@@ -15,5 +15,4 @@ A PDF of the presentation will be available after Feb. 25, 2019.
 Previous presentations of this work:
 ======
 * January 7, 2019: Poster ([PDF](http://charlottewood.me/files/poster_aas2019.pdf))
-  * 233rd Meeting of the American Astronomical Society
-  * Seattle, WA, USA
+  * 233rd Meeting of the American Astronomical Society, Seattle, WA, USA
