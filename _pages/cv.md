@@ -13,9 +13,9 @@ View a PDF version here: [Full](http://cwood12.github.io/files/fullCV.pdf) or [S
 
 Education
 ======
-* B.S. in Physics, Hofstra University, 2016
-* M.S. in Physics, University of Notre Dame, 2019 (expected)
 * Ph.D in Physics, University of Notre Dame, 2022 (expected)
+* M.S. in Physics, University of Notre Dame, 2019 (expected)
+* B.S. in Physics, Hofstra University, 2016
 
 Awards
 ======
@@ -24,13 +24,13 @@ Awards
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 Talks & Presentations
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
