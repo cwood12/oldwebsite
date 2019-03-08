@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-View a PDF version here: [Full](http://cwood12.github.io/files/fullCV.pdf) or [Shortened](http://cwood12.github.io/files/shortCV.pdf) (updated 2019-02-05)
+View a PDF version here: [Full](http://cwood12.github.io/files/fullCV.pdf) or [Shortened](http://cwood12.github.io/files/shortCV.pdf) (updated 2019-03-08)
 
 {% include base_path %}
 
