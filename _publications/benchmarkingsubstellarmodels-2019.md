@@ -5,9 +5,9 @@ permalink: /publication/benchmarking-substellar-models-2019
 excerpt: 'HD 4747 B and HD 19467 B are directly imaged brown dwarf companions to Sun-like stars. We measure the radii of the host stars to constrain age estimates for these systems using stellar isochrone models. Assuming the brown dwarfs have the same ages as their host stars, we compare various properties of the brown dwarfs to the predicted properties from several substellar evolutionary models.'
 date: 2019-01-14
 venue: 'The Astrophysical Journal'
-paperurl: 'https://charlottewood.me/files/Wood_2019_ApJ_inpress_benchmarkbds.pdf'
-citation: 'Wood, C. M., et al. 2019, ArXiv e-prints, arXiv:1901.03687'
-# doi:
+paperurl: 'https://charlottewood.me/files/Wood_2019_ApJ_873_83_benchmarkbds.pdf'
+citation: 'Wood, C. M., et al. 2019, ApJ, 873, 83'
+doi: 10.3847/1538-4357/aafe01
 arxiv: 1901.03687
 ---
 {% raw %}
