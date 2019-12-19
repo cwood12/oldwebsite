@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-View a PDF version here: [Full](http://cwood12.github.io/files/fullCV.pdf) or [Shortened](http://cwood12.github.io/files/shortCV.pdf) (updated 2019-03-08)
+View a PDF version here: [Full](http://cwood12.github.io/files/fullCV.pdf) or [Shortened](http://cwood12.github.io/files/shortCV.pdf) (updated 2019-12-18)
 
 {% include base_path %}
 
@@ -36,14 +36,18 @@ Talks & Presentations
 
 Other Research Experience
 ======
-* Summer 2015: Research Experience for Undergraduates
+* Observing Experience
+  * Large Binocular Telescope: 20 nights, LBC photometry and MODS longslit spectroscopy
+  * Cerro Tololo Interamerican Observatory: 3 nights, 0.8m telescope, photometry
+
+* Research Experience for Undergraduates
   * University of Oklahoma, Norman, OK, USA
   * Summary of work: We searched for evidence of debris disks around extremely low mass white dwarfs as a potential explanation for an excess of calcium in the atmosphere of the white dwarfs. After looking at 22 targets, we found evidence of one possible disk, but more infrared observations are needed to confirm.
   * Advisor: Dr. Mukremin Kilic
 
-* Fall 2014 - Fall 2015: Research Assistant
+* Undergraduate Research Assistant
   * Hofstra University, Hempstead, NY, USA
-  * Summary of work: We used Hubble Space Telescope imaging and spectroscopy to study the expanding remnants of T Pyxidis and V595 Monocerotis. We also observed for three nights on the 0.8m telescope at Cerro Tololo Interamerican Observatory to study the light echo of Supernova 1987A.
+  * Summary of work: We used Hubble Space Telescope imaging and spectroscopy to study the expanding remnants of T Pyxidis and V595 Monocerotis.
   * Advisor: Dr. Stephen S. Lawrence
 
 Teaching
@@ -73,6 +77,22 @@ Activities & Outreach
   * University of Notre Dame, South Bend, IN, USA
   * Serving as the astronomy group representative in the physics graduate student organization, acting as a bridge between graduate students and the department and planning events.
 
+* September 2019-present: Association for Women in Science Department Representative
+  * University of Notre Dame, South Bend, IN, USA
+  * Serving as the physics department representative in the University of Notre Dame chapter for the Association for Women in Science, helping plan and promote local events that support women in all STEM fields.
+
+* November 2019: Mercury Transit Viewing
+  * University of Notre Dame, South Bend, IN, USA
+  * Coordinated use of telescopes for viewing the Mercury transit for Notre Dame students. Event ended up cancelled due to weather.
+
+* July 2019: Apollo 11 50th Anniversary Celebration
+  * Bittersweet Elementary School, Mishawaka, IN, USA
+  * Set up telescopes for solar observing and answered space-related questions for a large public event.
+
+* July 2019: Art-2-Science
+  * University of Notre Dame, South Bend, IN, USA
+  * Taught elementary and middle school students about sound through arts & crafts activities.
+
 * February 2019: Science Alive
   * University of Notre Dame, South Bend, IN, USA
   * Taught children and adults about spectroscopy and the elements using diffraction grating glasses and several glass tubes.
@@ -87,6 +107,7 @@ Activities & Outreach
 
 Professional Organizations
 ======
+* Association of Women in Science
 * American Astronomical Society
 * Phi Beta Kappa
 * Sigma Pi Sigma
