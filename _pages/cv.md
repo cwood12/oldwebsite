@@ -7,18 +7,19 @@ redirect_from:
   - /resume
 ---
 
-View a PDF version here: [Full](http://cwood12.github.io/files/fullCV.pdf) or [Shortened](http://cwood12.github.io/files/shortCV.pdf) (updated 2019-12-18)
+View a PDF version here: [Full](http://cwood12.github.io/files/fullCV.pdf) or [Shortened](http://cwood12.github.io/files/shortCV.pdf) (updated 2020-02-03)
 
 {% include base_path %}
 
 Education
 ======
 * Ph.D. in Physics, University of Notre Dame, 2022 (expected)
-* M.S. in Physics, University of Notre Dame, 2019 (expected)
+* M.S. in Physics, University of Notre Dame, 2020 (expected)
 * B.S. in Physics, Hofstra University, 2016
 
 Awards
 ======
+* Sigma Xi Grant in Aid of Research, Sigma Xi, 2019
 * Arthur J. Schmitt Leadership Fellowship, University of Notre Dame, 2016
 * Harold E. Clearman Memorial Award, Hofstra University, 2015
 
@@ -107,6 +108,7 @@ Activities & Outreach
 
 Professional Organizations
 ======
+* Sigma Xi
 * Association of Women in Science
 * American Astronomical Society
 * Phi Beta Kappa
