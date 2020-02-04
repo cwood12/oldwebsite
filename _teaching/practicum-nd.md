@@ -2,13 +2,13 @@
 title: "Physics Teaching Practicum"
 collection: teaching
 type: "Undergraduate & graduate courses"
-permalink: /teaching/practicum_2018-2019
+permalink: /teaching/practicum_2018-2020
 venue: "University of Notre Dame, Department of Physics"
-date: 2019-05-01
+date: 2020-01-31
 location: "South Bend, IN, USA"
 ---
 
-The Physics Teaching Practicum is a class designed to provide graduate students with teaching/lecture experience. For the Practicum, I gave five lectures (four under supervision) and put together a portfolio of my materials, feedback, and reflections.
+The Physics Teaching Practicum is a class designed to provide graduate students with teaching/lecture experience. For the Practicum, I gave five lectures (four under supervision) and put together a portfolio of my materials, feedback, and reflections. I will be completing two more lectures under supervision in the Spring 2020 semester to be included in my portfolio.
 
 Classes covered:
 ======
@@ -18,5 +18,5 @@ Classes covered:
 * Introduction to Astrophysics (three lectures)
   * Introductory astronomy course for sophomore physics majors
 
-* Elementary Cosmology (one lecture)
+* Elementary Cosmology (one lecture, two upcoming)
   * Introductory astronomy course for freshman non-science majors
