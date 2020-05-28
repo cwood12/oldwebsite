@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Charlotte and I'm currently a fourth year graduate student at the University of Notre Dame, studying astrophysics under Peter Garnavich. My research focuses on light echoes around type Ia supernovae and what they can tell us about the stellar systems that create these explosions. Other research interests of mine include gravitational wave counterparts, white dwarfs (particularly those in binary systems), and brown dwarfs. 
+Hi! I'm Charlotte and I'm currently a fifth year graduate student at the University of Notre Dame, studying astrophysics under Peter Garnavich. My research focuses on light echoes around type Ia supernovae and what they can tell us about the stellar systems that create these explosions. Other research interests of mine include gravitational wave counterparts, white dwarfs (particularly those in binary systems), and brown dwarfs. 
 
 I got my Bachelor of Science in Physics (plus a minor in astronomy) at Hofstra University in Hempstead, NY, graduated in 2016. There I worked with Stephen Lawrence studying light echoes around recurrent novae, as well as the light echo around SN 1987A. I also participated in a Research Experience for Undergraduates (REU) at the University of Oklahoma where I worked with Mukremin Kilic studying extremely low mass white dwarfs. I started as a graduate student in the summer of 2016 and completed candidacy in April 2020 to receive my Masters and officially become a PhD candidate.
 
