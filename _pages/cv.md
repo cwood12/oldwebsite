@@ -7,14 +7,14 @@ redirect_from:
   - /resume
 ---
 
-View a PDF version here: [Full](http://cwood12.github.io/files/fullCV.pdf) or [Shortened](http://cwood12.github.io/files/shortCV.pdf) (updated 2020-02-03)
+View a PDF version here: [Full](http://cwood12.github.io/files/fullCV.pdf) or [Shortened](http://cwood12.github.io/files/shortCV.pdf) (updated 2020-05-27)
 
 {% include base_path %}
 
 Education
 ======
 * Ph.D. in Physics, University of Notre Dame, 2022 (expected)
-* M.S. in Physics, University of Notre Dame, 2020 (expected)
+* M.S. in Physics, University of Notre Dame, 2020
 * B.S. in Physics, Hofstra University, 2016
 
 Awards
@@ -39,7 +39,8 @@ Other Research Experience
 ======
 * Observing Experience
   * Large Binocular Telescope: 20 nights, LBC photometry and MODS longslit spectroscopy
-  * Cerro Tololo Interamerican Observatory: 3 nights, 0.8m telescope, photometry
+  * W. M. Keck Observatory: Keck II, two 1/2 nights, spectroscopy
+  * Cerro Tololo Interamerican Observatory: 0.8m telescope, 3 nights, photometry
 
 * Research Experience for Undergraduates
   * University of Oklahoma, Norman, OK, USA
@@ -74,13 +75,17 @@ Skills
 
 Activities & Outreach
 ======
-* May 2018-present: Graduate Physics Society Executive Board
+* May 2018-June 2020: Graduate Physics Society Executive Board
   * University of Notre Dame, South Bend, IN, USA
-  * Serving as the astronomy group representative in the physics graduate student organization, acting as a bridge between graduate students and the department and planning events.
+  * Served as the astronomy group representative in the physics graduate student organization, acting as a bridge between graduate students and the department and planning events.
 
-* September 2019-present: Association for Women in Science Department Representative
+* September 2019-June 2020: Association for Women in Science Department Representative
   * University of Notre Dame, South Bend, IN, USA
-  * Serving as the physics department representative in the University of Notre Dame chapter for the Association for Women in Science, helping plan and promote local events that support women in all STEM fields.
+  * Served as the physics department representative in the University of Notre Dame chapter for the Association for Women in Science, helping plan and promote local events that support women in all STEM fields.
+
+* March 2020: Faculty Observing Night
+  * University of Notre Dame, South Bend, IN, USA
+  * Set up telescopes and answered space-related questions for faculty and their families.
 
 * November 2019: Mercury Transit Viewing
   * University of Notre Dame, South Bend, IN, USA
