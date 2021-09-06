@@ -14,7 +14,7 @@ The light echo around Supernova 2009ig (SN2009ig) is the sixth known and most lu
 
 View PDF of the poster [here](https://charlottewood.me/files/poster_gpsac2019b.pdf).
 
-Previous presentations of this work:
+Other presentations of this work:
 ======
 * September 26/27, 2019: Poster ([PDF](https://charlottewood.me/files/poster_mwsnt2019b.pdf))
   * Midwest Workshop on Supernovae and Transients, Columbus, OH, USA

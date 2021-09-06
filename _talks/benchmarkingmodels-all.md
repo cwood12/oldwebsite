@@ -16,10 +16,9 @@ Assuming the brown dwarf companions HD 4747 B and HD 19467 B have the same ages 
 
 View PDF of presentation [here](https://charlottewood.me/files/talk_cosejam2018.pdf).
 
-Previous presentations of this work:
+Other presentations of this work:
 ======
 * October 5, 2018: Poster ([PDF](https://charlottewood.me/files/poster_awis2018.pdf))
   * AWIS Women in Science Regional Conference, South Bend, IN, USA
-
 * January 12, 2018: Poster ([PDF](https://charlottewood.me/files/poster_aas2018.pdf))
   * 231st Meeting of the American Astronomical Society, Washington D.C., USA
