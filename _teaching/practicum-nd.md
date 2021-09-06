@@ -8,11 +8,11 @@ date: 2020-01-31
 location: "South Bend, IN, USA"
 ---
 
-The Physics Teaching Practicum is a class designed to provide graduate students with teaching/lecture experience. For the Practicum, I gave five lectures (four under supervision) and put together a portfolio of my materials, feedback, and reflections.
+The Physics Teaching Practicum is a class designed to provide graduate students with teaching/lecture experience. For the Practicum, I gave six lectures (five under observation; two more upcoming) and put together a portfolio of my materials, feedback, and reflections. I also have a recording of my Scientific Writing lecture as it was done over Zoom.
 
 Classes covered:
 ======
-* Descriptive Astronomy/Elementary Cosmology (two lectures)
+* Descriptive Astronomy/Elementary Cosmology (one lecture - one upcoming)
   * Introductory astronomy courses for freshman non-science majors
 * Introduction to Astrophysics (three lectures)
   * Introductory astronomy course for sophomore physics majors
