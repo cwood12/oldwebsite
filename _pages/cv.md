@@ -17,12 +17,6 @@ Education
 * M.S. in Physics, University of Notre Dame, 2020
 * B.S. in Physics, Hofstra University, 2016
 
-Awards
-======
-* Sigma Xi Grant in Aid of Research, Sigma Xi, 2019
-* Arthur J. Schmitt Leadership Fellowship, University of Notre Dame, 2016
-* Harold E. Clearman Memorial Award, Hofstra University, 2015
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -51,27 +45,18 @@ Other Research Experience
   * Hofstra University, Hempstead, NY, USA
   * Summary of work: We used Hubble Space Telescope imaging and spectroscopy to study the expanding remnants of T Pyxidis and V595 Monocerotis.
   * Advisor: Dr. Stephen S. Lawrence
+  
+Awards
+======
+* Sigma Xi Grant in Aid of Research, Sigma Xi, 2019
+* Arthur J. Schmitt Leadership Fellowship, University of Notre Dame, 2016
+* Harold E. Clearman Memorial Award, Hofstra University, 2015
 
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
-Skills
-======
-* Computer Languages/Programs:
-  * Python
-  * LaTeX
-  * IRAF/PyRAF
-  * Mathematica
-  * MATLAB
-  * IDL
-  * Git
-* Spoken Languages:
-  * English (native)
-  * Spanish (limited working proficiency)
-  * Italian (elementary proficiency)
 
 Activities & Outreach
 ======
@@ -118,6 +103,21 @@ Activities & Outreach
 * April 2018: Expanding Your Horizons
   * University of Notre Dame, South Bend, IN, USA
   * Taught middle school girls about exoplanets and helped them craft their own exoplanet using paper mache.
+
+Skills
+======
+* Computer Languages/Programs:
+  * Python
+  * LaTeX
+  * IRAF/PyRAF
+  * Mathematica
+  * MATLAB
+  * IDL
+  * Git
+* Spoken Languages:
+  * English (native)
+  * Spanish (limited working proficiency)
+  * Italian (elementary proficiency)
 
 Professional Organizations
 ======
