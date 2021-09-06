@@ -14,6 +14,6 @@ I got my Bachelor of Science in Physics (plus a minor in astronomy) at Hofstra U
 
 At Notre Dame, I am heavily involved with the Graduate Physics Society, a graduate student-run organization in the department that provides resources to foster community between students in across all subfields and to fill gaps in their professional skills. I am also involved with the local chapter of the Association for Women in Physics as the department representative and I participate in many of the astronomy-related outreach opportunities, such as public observing events & lectures and running science craft workshops for school children.
 
-Outside of physics, I enjoy horseback riding, photography (including astrophotography), playing pool, traveling, and hanging out with my husband & dog. I grew up in North Carolina so I'm a big UNC basketball fan and I enjoy going to Notre Dame football, basketball, and hockey games when I have time.
+Outside of physics, I enjoy horseback riding, photography (including astrophotography), playing pool, traveling, and hanging out with my husband & [dog](https://www.instagram.com/bentleythebeabull). I grew up in North Carolina so I'm a big UNC basketball fan and I enjoy going to Notre Dame football, basketball, and hockey games when I have time.
 
 If you have any questions about my research, graduate school (general or at ND specifically), outreach, or if you just want to say hi, please contact me! My contact info for various platforms is shown on the left.
