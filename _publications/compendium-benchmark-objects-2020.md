@@ -7,6 +7,7 @@ date: 2020-04-09
 venue: 'The Astrophysical Journal'
 citation: 'Gonzales, E. J., et al. 2020, ApJ, 893, 27'
 doi: 10.3847/1538-4357/ab71fb
+arxiv: 2010.11866
 ---
 
 {% raw %}
