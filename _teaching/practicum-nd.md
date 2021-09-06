@@ -2,7 +2,7 @@
 title: "Physics Teaching Practicum"
 collection: teaching
 type: "Undergraduate & graduate courses"
-permalink: /teaching/practicum_2018-2020
+permalink: /teaching/practicum_grad
 venue: "University of Notre Dame, Department of Physics"
 date: 2020-01-31
 location: "South Bend, IN, USA"
@@ -12,11 +12,13 @@ The Physics Teaching Practicum is a class designed to provide graduate students 
 
 Classes covered:
 ======
-* Physics of Astrophysics (one lecture)
-  * Advanced astronomy course for senior physics majors and first/second-year graduate students
-
+* Descriptive Astronomy/Elementary Cosmology (two lectures)
+  * Introductory astronomy courses for freshman non-science majors
 * Introduction to Astrophysics (three lectures)
   * Introductory astronomy course for sophomore physics majors
-
-* Elementary Cosmology (one lecture)
-  * Introductory astronomy course for freshman non-science majors
+* Physics of Astrophysics (one lecture)
+  * Advanced astronomy course for senior physics majors and first/second-year graduate students
+* Modern Observational Techniques (one or two lectures - upcoming)
+  * Advanced astronomy course for senior physics majors and first/second-year graduate students
+* Scientific Writing (one lecture)
+  * Graduate education course for graduate students at any stage

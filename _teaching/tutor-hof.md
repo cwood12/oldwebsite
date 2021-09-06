@@ -2,7 +2,7 @@
 title: "Physics Tutor"
 collection: teaching
 type: "One-on-one teaching"
-permalink: /teaching/tutoring_sep2014-dec2015
+permalink: /teaching/tutoring_undergrad
 venue: "Hofstra University, Department of Physics & Astronomy"
 date: 2015-12-10
 location: "Hempstead, NY, USA"

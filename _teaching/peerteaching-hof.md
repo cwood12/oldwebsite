@@ -2,7 +2,7 @@
 title: "Peer Teacher"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/peerteaching_spring2015
+permalink: /teaching/peerteaching_undergrad
 venue: "Hofstra University, Department of Physics & Astronomy"
 date: 2015-05-06
 location: "Hempstead, NY, USA"
