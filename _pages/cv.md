@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-View a PDF version here: [Full](http://cwood12.github.io/files/fullCV.pdf) or [Shortened](http://cwood12.github.io/files/shortCV.pdf) (updated 2020-05-27)
+View a PDF version here: [Full](http://cwood12.github.io/files/fullCV.pdf) or [Shortened](http://cwood12.github.io/files/shortCV.pdf) (updated 2021-09-06)
 
 {% include base_path %}
 
@@ -38,8 +38,8 @@ Talks & Presentations
 Other Research Experience
 ======
 * Observing Experience
-  * Large Binocular Telescope: 20 nights, LBC photometry and MODS longslit spectroscopy
-  * W. M. Keck Observatory: Keck II, two 1/2 nights, spectroscopy
+  * Large Binocular Telescope: 35 nights, LBC photometry, MODS longslit & multislit spectroscopy, LUCI spectroscopy
+  * W. M. Keck Observatory: Keck I & II, two 1/2 nights, spectroscopy
   * Cerro Tololo Interamerican Observatory: 0.8m telescope, 3 nights, photometry
 
 * Research Experience for Undergraduates
@@ -75,6 +75,14 @@ Skills
 
 Activities & Outreach
 ======
+* July 2021: Writing Tutor for the Warrior-Scholar Project
+  * University of Notre Dame, South Bend, IN, USA
+  * Tutored recent/soon-to-be veterans in college-level writing. Helped them navigate and adjust to reading & writing in a university environment.
+
+* May 2020-May 2021: Graduate Physics Society Public Relations Chair
+  * University of Notre Dame, South Bend, IN, USA
+  * Served as the chair of the Public Relations committe for the physics graduate student organization, maintaining the website, newsletter, and social media.
+
 * May 2018-June 2020: Graduate Physics Society Executive Board
   * University of Notre Dame, South Bend, IN, USA
   * Served as the astronomy group representative in the physics graduate student organization, acting as a bridge between graduate students and the department and planning events.
