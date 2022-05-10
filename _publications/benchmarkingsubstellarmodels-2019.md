@@ -9,6 +9,7 @@ paperurl: 'https://charlottewood.me/files/Wood_2019_ApJ_873_83_benchmarkbds.pdf'
 citation: 'Wood, C. M., et al. 2019, ApJ, 873, 83'
 doi: 10.3847/1538-4357/aafe01
 arxiv: 1901.03687
+status: published
 ---
 {% raw %}
 Constraining substellar evolutionary models (SSEMs) is particularly difficult due to a degeneracy between the mass, age, and luminosity of a brown dwarf. In cases where a brown dwarf is found as a directly imaged companion to a star, as in HD 4747 and HD 19467, the mass, age, and luminosity of the brown dwarf are determined independently, making them ideal objects to use to benchmark SSEMs.
