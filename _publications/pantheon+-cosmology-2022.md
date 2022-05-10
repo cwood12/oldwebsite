@@ -5,7 +5,7 @@ permalink: /publication/pantheon+cosmology-2022
 excerpt: 'We present constraints on cosmological parameters from the Pantheon+ analysis of 1701 light curves of 1550 distinct Type Ia supernovae (SNe Ia) ranging in redshift from z=0.001 to 2.26. This work features an increased sample size, increased redshift span, and improved treatment of systematic uncertainties in comparison to the original Pantheon analysis and results in a factor of two improvement in cosmological constraining power.'
 date: 2022-02-08
 venue: 'The Astrophysical Journal'
-paperurl: 'https://charlottewood.me/files/Brout_2022_arXiv_2202.04077_cosmology.pdf'
+paperurl: 'https://charlottemwood.com/files/Brout_2022_arXiv_2202.04077_cosmology.pdf'
 citation: 'Brout, D., et al. 2022, arXiv:2202.04077'
 doi: 
 arxiv: 2202.04077

@@ -5,6 +5,7 @@ permalink: /publication/compendium-benchmark-objects-2020
 excerpt: 'With the goal of identifying new benchmark objects to test low-mass stellar and substellar models, we have carried out a comprehensive adaptive optics survey as part of the TRENDS high-contrast imaging program. We have identified several dozen stars that show long-term Doppler accelerations and present follow-up high-contrast observations. We report the discovery of 31 comoving companions, as well as 11 strong candidate companions, to solar-type stars with well-determined parallax and metallicity values.'
 date: 2020-04-09
 venue: 'The Astrophysical Journal'
+paperurl: 'https://charlottemwood.com/files/Gonzales_2020_ApJ_893_27_compendium.pdf'
 citation: 'Gonzales, E. J., et al. 2020, ApJ, 893, 27'
 doi: 10.3847/1538-4357/ab71fb
 arxiv: 2010.11866

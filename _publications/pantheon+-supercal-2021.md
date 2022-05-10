@@ -5,7 +5,7 @@ permalink: /publication/pantheon+supercal-2021
 excerpt: 'We present here a re-calibration of the photometric systems used in the Pantheon+ sample of Type Ia supernovae (SNe Ia) including those used for the SH0ES distance-ladder measurements. We utilize the large and uniform sky coverage of the public Pan-STARRS stellar photometry catalog to cross-calibrate against tertiary standards released by individual SN Ia surveys.'
 date: 2021-12-07
 venue: 'The Astrophysical Journal'
-paperurl: 'https://charlottewood.me/files/Brout_2021_arXiv_2112.03864_supercal.pdf'
+paperurl: 'https://charlottemwood.com/files/Brout_2021_arXiv_2112.03864_supercal.pdf'
 citation: 'Brout, D., et al. 2021, arXiv:2112.03864'
 doi: 
 arxiv: 2112.03864

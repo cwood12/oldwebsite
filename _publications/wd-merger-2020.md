@@ -5,7 +5,7 @@ permalink: /publication/wd-merger-2020
 excerpt: 'We analyze time-series spectroscopy of the white dwarf merger candidate J005311 and confirm the unique nature of its optical spectrum. We find significant variability in the profile of the strong OVI 381.1/383.4 nm emission feature, similar to what is seen in many Wolf-Rayet stars.'
 date: 2020-09-25
 venue: 'Research Notes of the American Astronomical Society'
-paperurl: 'https://charlottewood.me/files/Garnavich_2020_RNAAS_4_167_wdmerger'
+paperurl: 'https://charlottemwood.com/files/Garnavich_2020_RNAAS_4_167_wdmerger'
 citation: 'Garnavich, P., et al. 2020, RNAAS, 4, 167'
 doi: 10.3847/2515-5172/abbb8b
 arxiv: 2009.12380

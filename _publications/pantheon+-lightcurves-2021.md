@@ -5,7 +5,7 @@ permalink: /publication/pantheon+lightcurves-2021
 excerpt: 'Here we present 1701 light curves of 1550 spectroscopically confirmed Type Ia supernovae (SNe Ia) that will be used to infer cosmological parameters as part of the Pantheon+ SN analysis and the SH0ES (Supernovae and H0 for the Equation of State of dark energy) distance-ladder analysis.'
 date: 2021-12-07
 venue: 'The Astrophysical Journal Letters'
-paperurl: 'https://charlottewood.me/files/Scolnic_2021_arXiv_2112.03863_pantheon+.pdf'
+paperurl: 'https://charlottemwood.com/files/Scolnic_2021_arXiv_2112.03863_pantheon+.pdf'
 citation: 'Scolnic, D., et al. 2021, arXiv:2112.03863'
 doi: 
 arxiv: 2112.03863

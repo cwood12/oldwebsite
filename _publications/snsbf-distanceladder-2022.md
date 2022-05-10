@@ -5,7 +5,7 @@ permalink: /publication/sn-sbf-distanceladder-2022
 excerpt: 'We compare infrared surface brightness fluctuation (IR SBF) distances measured in galaxies that have hosted type Ia supernovae (SNIa) to distances estimated from SNIa light curve fits. We show that the properties of SNIa found in IR SBF hosts are very different from those exploding in Cepheid calibrators, therefore, this is a direct test of systematic uncertainties on estimation of the Hubble constant using supernovae.'
 date: 2022-02-08
 venue: 'The Astrophysical Journal'
-paperurl: 'https://charlottewood.me/files/Garnavich_2022_arXiv_2204.12060_distanceladder.pdf'
+paperurl: 'https://charlottemwood.com/files/Garnavich_2022_arXiv_2204.12060_distanceladder.pdf'
 citation: 'Garnavich, P., et al. 2022, arXiv:2204.12060'
 doi: 
 arxiv: 2204.12060
