@@ -14,11 +14,11 @@ Using the Center for High Angular Resolution Astronomy Array, we measured the an
 Assuming the brown dwarf companions HD 4747 B and HD 19467 B have the same ages as their host stars, we show that many of the SSEMs under-predict bolometric luminosities by ~0.75 dex for HD 4747 B and ~0.5 dex for HD 19467 B. The discrepancies in luminosity correspond to over-predictions of the masses by ~12% for HD 4747 B and ~30% for HD 19467 B. We also show that SSEMs that take into account the effect of clouds reduce the under-prediction of luminosity to ~0.6 dex and the over-prediction of mass to ~8% for HD 4747 B, an L/T transition object that is cool enough to begin forming clouds. One possible explanation for the remaining discrepancies is missing physics in the models, such as the inclusion of metallicity effects.
 {% endraw %}
 
-View PDF of presentation [here](https://charlottewood.me/files/talk_cosejam2018.pdf).
+View PDF of presentation [here](https://charlottemwood.com/files/talk_cosejam2018.pdf).
 
 Other presentations of this work:
 ======
-* October 5, 2018: Poster ([PDF](https://charlottewood.me/files/poster_awis2018.pdf))
+* October 5, 2018: Poster
   * AWIS Women in Science Regional Conference, South Bend, IN, USA
-* January 12, 2018: Poster ([PDF](https://charlottewood.me/files/poster_aas2018.pdf))
+* January 12, 2018: Poster ([PDF](https://charlottemwood.com/files/poster_aas2018.pdf))
   * 231st Meeting of the American Astronomical Society, Washington D.C., USA
