@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-View a PDF version here: [Full](http://cwood12.github.io/files/fullCV.pdf) or [Shortened](http://cwood12.github.io/files/shortCV.pdf) (updated 2021-09-06)
+View a PDF version here: [Full](http://charlottemwood.com/files/fullCV.pdf) (updated 2022-04-08)
 
 {% include base_path %}
 
@@ -16,6 +16,11 @@ Education
 * Ph.D. in Physics, University of Notre Dame, 2022 (expected)
 * M.S. in Physics, University of Notre Dame, 2020
 * B.S. in Physics, Hofstra University, 2016
+
+Professional Appointments
+======
+* Astronomy & Astrophysics Prize Postdoctoral Fellow (starting Aug. 2022)
+  * Iowa State University, Ames, IA, USA
 
 Publications
 ======
@@ -32,8 +37,8 @@ Talks & Presentations
 Other Research Experience
 ======
 * Observing Experience
-  * Large Binocular Telescope: 35 nights, LBC photometry, MODS longslit & multislit spectroscopy, LUCI spectroscopy
-  * W. M. Keck Observatory: Keck I & II, two 1/2 nights, spectroscopy
+  * Large Binocular Telescope: 40+ nights, LBC photometry, MODS longslit & multislit spectroscopy, LUCI spectroscopy, PEPSI spectroscopy
+  * W. M. Keck Observatory: Keck I & II, two 1/2 nights, DEIMOS & LRIS spectroscopy
   * Cerro Tololo Interamerican Observatory: 0.8m telescope, 3 nights, photometry
 
 * Research Experience for Undergraduates
@@ -60,7 +65,7 @@ Teaching
 
 Activities & Outreach
 ======
-* July 2021: Writing Tutor for the Warrior-Scholar Project
+* July 2021 & June 2022: Writing Tutor for the Warrior-Scholar Project
   * University of Notre Dame, South Bend, IN, USA
   * Tutored recent/soon-to-be veterans in college-level writing. Helped them navigate and adjust to reading & writing in a university environment.
 
