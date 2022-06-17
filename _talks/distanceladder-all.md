@@ -16,6 +16,8 @@ Read the associated paper [here](https://charlottemwood.com/files/Garnavich_2022
 
 Other presentations of this work:
 ======
+* December 8, 2021: Oral presentation
+  * Graduate Physics Society Annual Conference, University of Notre Dame, South Bend, IN, USA
 * October 27, 2021: Virtual Seminar
   * University of Arizona, Tucson, AZ, USA
 * October 21, 2021: Virtual Seminar
