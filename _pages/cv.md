@@ -7,13 +7,13 @@ redirect_from:
   - /resume
 ---
 
-View a PDF version here: [Full](http://charlottemwood.com/files/fullCV.pdf) (updated 2022-04-08)
+View a PDF version here: [Full](http://charlottemwood.com/files/fullCV.pdf) or [SHORT](http://charlottemwood.com/files/shortCV.pdf) (updated 2022-09-20)
 
 {% include base_path %}
 
 Education
 ======
-* Ph.D. in Physics, University of Notre Dame, 2022 (expected)
+* Ph.D. in Physics, University of Notre Dame, 2022
 * M.S. in Physics, University of Notre Dame, 2020
 * B.S. in Physics, Hofstra University, 2016
 
@@ -53,6 +53,7 @@ Other Research Experience
   
 Awards
 ======
+* Astronomy & Astrophysics Prize Postdoctoral Fellowship
 * Sigma Xi Grant in Aid of Research, Sigma Xi, 2019
 * Arthur J. Schmitt Leadership Fellowship, University of Notre Dame, 2016
 * Harold E. Clearman Memorial Award, Hofstra University, 2015
@@ -71,7 +72,7 @@ Activities & Outreach
 
 * May 2020-May 2021: Graduate Physics Society Public Relations Chair
   * University of Notre Dame, South Bend, IN, USA
-  * Served as the chair of the Public Relations committe for the physics graduate student organization, maintaining the website, newsletter, and social media.
+  * Served as the chair of the Public Relations committee for the physics graduate student organization, maintaining the website, newsletter, and social media.
 
 * May 2018-June 2020: Graduate Physics Society Executive Board
   * University of Notre Dame, South Bend, IN, USA
