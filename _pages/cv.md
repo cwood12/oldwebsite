@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-View a PDF version here: [Full](http://charlottemwood.com/files/fullCV.pdf) or [SHORT](http://charlottemwood.com/files/shortCV.pdf) (updated 2022-09-20)
+View a PDF version here: [Full](http://charlottemwood.com/files/fullCV.pdf) or [Short](http://charlottemwood.com/files/shortCV.pdf) (updated 2022-09-20)
 
 {% include base_path %}
 
